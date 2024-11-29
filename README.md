@@ -13,8 +13,8 @@
 This is the official repository for "[MEGA: Memory-Efficient 4D Gaussian Splatting for Dynamic Scenes](https://arxiv.org/abs/2410.13613)". We will release our code as soon as possible. 
 
 <div align="center">
-  <img src="./img/visual_birthday.png" alt="birthday" width="320" />
-  <img src="./img/visual_painter.png" alt="painter" width="320" />
+  <img src="./img/visual_birthday.png" alt="birthday" width="640" />
+  <img src="./img/visual_painter.png" alt="painter" width="640" />
 </div>
 
 ## Overview
