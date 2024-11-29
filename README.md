@@ -6,7 +6,9 @@
 [[paper](https://arxiv.org/abs/2410.13613)][[project page](https://xinjie-q.github.io/MEGA)][[code](https://github.com/Xinjie-Q/MEGA)]
 
 
-[Xinjie Zhang*](https://xinjie-q.github.io/), [Zhening Liu](https://www.liuzhening.top/), [Yifan Zhang📧](https://sites.google.com/view/yifan-zhang/), [Xingtong Ge](https://xingtongge.github.io/), [Dailan He](https://scholar.google.com/citations?user=f5MTTy4AAAAJ&hl=en), [Tongda Xu](https://tongdaxu.github.io/), [Yan Wang](https://yanwang202199.github.io/), [Zehong Lin](https://zhlinup.github.io/), [Shuicheng Yan📧](https://yanshuicheng.info/), [Jun Zhang📧](https://eejzhang.people.ust.hk/)
+[Xinjie Zhang](https://xinjie-q.github.io/), [Zhening Liu](https://www.liuzhening.top/), [Yifan Zhang📧](https://sites.google.com/view/yifan-zhang/), [Xingtong Ge](https://xingtongge.github.io/), [Dailan He](https://scholar.google.com/citations?user=f5MTTy4AAAAJ&hl=en) 
+
+[Tongda Xu](https://tongdaxu.github.io/), [Yan Wang](https://yanwang202199.github.io/), [Zehong Lin](https://zhlinup.github.io/), [Shuicheng Yan📧](https://yanshuicheng.info/), [Jun Zhang📧](https://eejzhang.people.ust.hk/)
 
 (📧 denotes corresponding author.)
 
